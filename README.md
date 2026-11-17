@@ -81,10 +81,7 @@ These values can be changed directly in the theme file. The snippets above illus
 ### Credits
 
 - **Theme / CSS:** Washed
-- **Background artwork:** *Add the original artist/source and usage rights, if applicable.*
 - **Font:** [Monocraft](https://github.com/IdreesInc/Monocraft) by Idrees Hassan and contributors, licensed under the [SIL Open Font License 1.1](https://openfontlicense.org/).
-
-Please respect the rights and licenses of any third-party artwork or other assets used in the theme.
 
 ---
 
@@ -149,10 +146,7 @@ Please respect the rights and licenses of any third-party artwork or other asset
 ### Авторы
 
 - **Тема / CSS:** Washed
-- **Фоновая иллюстрация:** *Укажите автора или источник, а также права на использование, если необходимо.*
 - **Шрифт:** [Monocraft](https://github.com/IdreesInc/Monocraft), автор Idrees Hassan и участники проекта, лицензия [SIL Open Font License 1.1](https://openfontlicense.org/).
-
-Учитывайте права авторов сторонних изображений и других ресурсов, если они используются в теме.
 
 ---
 

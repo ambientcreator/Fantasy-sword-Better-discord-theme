@@ -9,11 +9,11 @@
 
 ### Friends view / Экран друзей
 
-![Fantasy sword — Friends view / Экран друзей](assets/preview-friends.png)
+![Fantasy sword — Friends view / Экран друзей](assets/preview-friends.jpg)
 
 ### Server view / Экран сервера
 
-![Fantasy sword — Server and chat view / Сервер и чат](assets/preview-server.png)
+![Fantasy sword — Server and chat view / Сервер и чат](assets/preview-server.jpg)
 
 *The previews are based on the actual theme screenshots, with user, server, and contact details replaced by placeholders.*  
 *Превью основаны на настоящих скриншотах темы; имена пользователей, серверы и личная информация заменены заглушками.*
